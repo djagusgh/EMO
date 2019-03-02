@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1017127664278",
+    "firebase_url": "https://encorefinalprj.firebaseio.com",
+    "project_id": "encorefinalprj",
+    "storage_bucket": "encorefinalprj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017127664278:android:8f6d06275360ff64",
+        "android_client_info": {
+          "package_name": "com.google.firebase.encore.koreanfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017127664278-hd0kd2khjo3p2rnnrktscdmgj4nnckte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.encore.koreanfood",
+            "certificate_hash": "8291c57c6f5cf990ac74fd027e80274ec5e18e5e"
+          }
+        },
+        {
+          "client_id": "1017127664278-ea667nes6m6jer14llus2q4n26nqu0ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNf3TAJpXDxQF1BR2Ar200_qbKDMNXkI8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017127664278-ea667nes6m6jer14llus2q4n26nqu0ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

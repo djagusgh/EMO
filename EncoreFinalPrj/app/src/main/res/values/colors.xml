@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9800</color>
+    <color name="colorPrimaryDark">#E65100</color>
+    <color name="colorAccent">#b2b2b2</color>
+    <color name="colorTitle">#ffffff</color>
+
+
+    <color name="material_green_50">#9BBB59</color>
+    <color name="material_green_500">#4caf50</color>
+    <color name="material_green_700">#24724e</color>
+    <color name="material_green_a200">#69F0AE</color>
+    <color name="material_lime_a700">#a9b588</color>
+    <color name="material_purple_a700">#AA00FF</color>
+
+    <color name="colorLightGray">#e9e9e9</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDivision">#e0e0e0</color>
+    <color name="colorNavIcon">#1d1d1d</color>
+
+    <color name="cookie">#e5754b</color>
+
+    <color name="colorGoogleSignIn">#e47163</color>
+    <color name="colorGoogleSignInPressed">#b02513</color>
+    <color name="colorEmailSignIn">#8bdad2</color>
+    <color name="colorEmailSignInPressed">#10b815</color>
+
+    <color name="placeholder_color">#dddddd</color>
+    <color name="text_like_counter">#2E9AFE</color>
+
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/colorWhite</item>
+    </style>
+
+</resources>
