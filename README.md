@@ -7,4 +7,6 @@ https://playdata.io/archives/8486
 
 - 상세 서비스 기획 의도, 개발 진행 흐름 -> 발표 자료 pdf 참고
 
-- 딥러닝 모델 개발 과정 
+- 딥러닝 모델 개발 과정 -> 190215 한식 데이터 전처리 + 딥러닝(InceptionV3, MobileNetV2 사용) 코드.ipynb
+
+- 안드로이드 앱 : EncoreFinalPrj 폴더 
