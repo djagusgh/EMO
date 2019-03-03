@@ -15,4 +15,8 @@ https://playdata.io/archives/8486
 
 ---------------------------------
 
-![login](https://user-images.githubusercontent.com/35323742/53690451-f3c63300-3dad-11e9-8f51-905460ac8561.jpg)
+<div>
+  <img width="200" src="https://user-images.githubusercontent.com/35323742/53690451-f3c63300-3dad-11e9-8f51-905460ac8561.jpg">
+  
+  
+</div>
