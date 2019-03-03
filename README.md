@@ -12,3 +12,7 @@ https://playdata.io/archives/8486
 - 딥러닝 모델 개발 과정 -> 190215 한식 데이터 전처리 + 딥러닝(InceptionV3, MobileNetV2 사용) 코드.ipynb
 
 - 안드로이드 앱 : EncoreFinalPrj 폴더 
+
+---------------------------------
+
+![login](https://user-images.githubusercontent.com/35323742/53690451-f3c63300-3dad-11e9-8f51-905460ac8561.jpg)
